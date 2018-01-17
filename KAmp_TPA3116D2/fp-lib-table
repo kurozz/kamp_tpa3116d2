@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name Housings_SSOP_2)(type KiCad)(uri E:/Documentos/KiCad/kicad-library/modules/Housings_SSOP.pretty)(options "")(descr ""))
+  (lib (name Connectors_2)(type KiCad)(uri E:/Documentos/KiCad/kicad-library/modules/Connectors.pretty)(options "")(descr ""))
+  (lib (name Connectors_JST_2)(type KiCad)(uri E:/Documentos/KiCad/kicad-library/modules/Connectors_JST.pretty)(options "")(descr ""))
+)
